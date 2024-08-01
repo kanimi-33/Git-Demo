@@ -1,3 +1,7 @@
 hello world in plain.!!!!!!!!!!! git and github;
 
 git learning;
+
+take input add value;
+
+git diff command
