@@ -1,1 +1,3 @@
 Get User Data.
+
+service method is get for security.
