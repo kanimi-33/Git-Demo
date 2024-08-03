@@ -1,3 +1,7 @@
 Get User Data.
 
 service method is get for security.
+
+create avatar for user to maintain certain profile.
+
+create a portfolio image.
